@@ -1,9 +1,9 @@
 ![MasterHead](https://ltdfoto.ru/images/2023/07/12/IMG_9919.jpg)
 <h1 align="center">Hello! I'm Aydima</h1>
 <h3 align="center">JavaScript Developer from Chechnya</h3>
-<!-- <img align="right" alt="Coding no matter what" width=«400» src="https://tenor.com/ru/view/apple-apple-mac-apple-macbook-apple-macbook-air-apple-macbook-air2020-gif-26293471"> -->
+<!-- <img align="right" alt="Coding no matter what" width=«400» src="https://miro.medium.com/v2/resize:fit:679/1*iO7pN-_Ym9fAjlL7sFHl4w.gif"> -->
 
-- 🌱 I’m currently working on **React**
+- 🌱 I’m currently working with the **React framework**
 
 - 🌱 I want to learn  **Vue and Backend**
 
