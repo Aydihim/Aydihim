@@ -1,7 +1,7 @@
-![MasterHead](https://ibb.co/WFjhwtZ)
+![MasterHead](https://ltdfoto.ru/images/2023/07/12/IMG_9919.jpg)
 <h1 align="center">Hello! I'm Aydima</h1>
-<h3 align="center">A JavaScript Developer from Chechnya</h3>
-<img align="right" alt="Coding no matter what" width=«400» src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
+<h3 align="center">JavaScript Developer from Chechnya</h3>
+<!-- <img align="right" alt="Coding no matter what" width=«400» src="https://tenor.com/ru/view/apple-apple-mac-apple-macbook-apple-macbook-air-apple-macbook-air2020-gif-26293471"> -->
 
 - 🌱 I’m currently working on **React**
 
